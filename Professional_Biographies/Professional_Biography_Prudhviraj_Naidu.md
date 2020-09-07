@@ -6,7 +6,7 @@ India pursuing knowledge in the fields of AI, ML and Computer Vision.
 I love playing guitar, eating food or just talking about random
 things. Feel free to ping me.
 
-<img src="/images/Prudhvi_Profile.jpg" alt="Prudhviraj's Profile Picture" height="250px" width="250px" />
+<img src="/images/Prudhvi_Profile.jpg" alt="Prudhviraj's Profile Picture" height="250px" width="250px" style="max-width:100%; border-radius: 50%"/>
 
 ## Contact Information
 
