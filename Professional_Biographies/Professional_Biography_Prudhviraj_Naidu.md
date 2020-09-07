@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("/path/to/custom.css"))
+<link href="biography.css" rel="stylesheet"></link>
 
 # Professional Biography
 
