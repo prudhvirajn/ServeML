@@ -1,6 +1,5 @@
-<link href="/Professional_Biographies/biography.css" rel="stylesheet"></link>
-
 # Professional Biography
+<img src="/images/Prudhvi_Profile.jpg" alt="Prudhviraj's Profile Picture" height="150px" width="150px" align="left"/>
 
 Hi! My name is Prudhviraj Naidu. I am 21 year old from Navi Mumbai,
 India pursuing knowledge in the fields of AI, ML and Computer Vision.
@@ -8,7 +7,7 @@ India pursuing knowledge in the fields of AI, ML and Computer Vision.
 I love playing guitar, eating food or just talking about random
 things. Feel free to ping me.
 
-<img src="/images/Prudhvi_Profile.jpg" alt="Prudhviraj's Profile Picture"/>
+
 
 ## Contact Information
 
