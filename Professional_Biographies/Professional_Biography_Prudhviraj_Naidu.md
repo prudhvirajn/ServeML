@@ -1,3 +1,14 @@
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output:
+  html_document:
+     css: biography.css
+     self_contained: no
+
+---
+
 <link rel="stylesheet" type="text/css" media="all" href="biography.css" />
 
 
