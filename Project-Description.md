@@ -3,7 +3,7 @@
 **Team Name**: ServeML
 
 **Team Members:**
-- Prudhviraj Naidu - naidupr@mail.uc.edu
+- Prudhviraj Naidu (B.S Computer Science) - naidupr@mail.uc.edu
 
 **Faculty Advisor:** Dr. Nan Niu - niunn@ucmail.uc.edu
 
