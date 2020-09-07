@@ -1,4 +1,4 @@
-<link href="biography.css" rel="stylesheet"></link>
+<link href="/Professional_Biographies/biography.css" rel="stylesheet"></link>
 
 # Professional Biography
 
@@ -13,9 +13,9 @@ things. Feel free to ping me.
 ## Contact Information
 
 Email ID: naidupr@mail.uc.edu
-Linkedin: https://www.linkedin.com/in/prudhvirajn/
-Github: https://github.com/prudhvirajn
-Instagram: https://www.instagram.com/prudhvirocks/
+Linkedin: https://www.linkedin.com/in/prudhvirajn/ <br>
+Github: https://github.com/prudhvirajn<br>
+Instagram: https://www.instagram.com/prudhvirocks/<br>
 
 ## Co-op Work Experience
 
