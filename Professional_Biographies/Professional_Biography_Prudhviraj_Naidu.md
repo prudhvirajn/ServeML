@@ -12,10 +12,10 @@ things. Feel free to ping me.
 
 ## Contact Information
 
-Email ID: naidupr@mail.uc.edu
+Email ID: naidupr@mail.uc.edu <br>
 Linkedin: https://www.linkedin.com/in/prudhvirajn/ <br>
-Github: https://github.com/prudhvirajn<br>
-Instagram: https://www.instagram.com/prudhvirocks/<br>
+Github: https://github.com/prudhvirajn <br>
+Instagram: https://www.instagram.com/prudhvirocks/ <br>
 
 ## Co-op Work Experience
 
