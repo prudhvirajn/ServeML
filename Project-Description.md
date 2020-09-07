@@ -7,4 +7,4 @@
 
 **Faculty Advisor:** Dr. Nan Niu - niunn@ucmail.uc.edu
 
-**Project Topic Area:** Researching Maintenance and Serving Neural Networks
+**Project Topic Area:** Machine Learning and Deep Learning: What Happens After Training?
