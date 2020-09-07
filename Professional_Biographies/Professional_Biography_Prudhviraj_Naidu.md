@@ -7,7 +7,7 @@ India pursuing knowledge in the fields of AI, ML and Computer Vision.
 I love playing guitar, eating food or just talking about random
 things. Feel free to ping me.
 
-
+<br><br>
 
 ## Contact Information
 
