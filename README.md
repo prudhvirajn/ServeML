@@ -20,12 +20,12 @@ This is a research project investigating how machine learning systems behave onc
 10. [Appendix][10]
 
 [1]: 
-[2]: 
-[3]: 
-[4]: 
-[5]:
-[6]: 
-[7]: 
-[8]:
+[2]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/User_Stories.md
+[3]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Design_Diagrams
+[4]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Milestones%2C%20Timeline%2C%20Effort%20Matrix
+[5]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Constraints.md
+[6]: https://drive.google.com/file/d/1C0GJ8Kb68xFEVPaejAIxC_lwfwo1XVf3/view?usp=sharing
+[7]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Essays
+[8]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Professional_Biographies
 [9]: 
 [10]: 
