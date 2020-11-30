@@ -34,8 +34,8 @@
 	- https://www.kaggle.com/prudhvinaidu/imagenet-5-class
 
 ### Resources Used
-- Arvix: 
-- Kaggle: 
+- Arvix: https://arxiv.org/
+- Kaggle: https://www.kaggle.com/
 
 
 (Prudhviraj Naidu // As of Nov 29th, 2020)
