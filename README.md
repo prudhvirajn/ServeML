@@ -4,7 +4,7 @@
 
 This is a research project investigating how machine learning systems behave once they have been deployed. For now, we are researching how do these neural networks trained for classification behave in response to augmentations. 
 
-<em>Project done Prudhviraj Naidu.</em><br>
+<em>Project done by Prudhviraj Naidu.</em><br>
 <em>Advised by Dr. Nan Niu.</em>
 
 ## Table of Contents
