@@ -43,7 +43,6 @@ This project uses different Augmentation algorithms to augment images.
 Links for the corresponding respositories are provided from where augmentation algorithms were used from. 
 
 1. ["Generalisation in humans and deep neural networks"][1]
-	The following 
 	- Greyscale
 	- Constrast
 	- Lowpass
