@@ -9,15 +9,16 @@ This is a research project investigating how machine learning systems behave onc
 
 ## Table of Contents
 1. [Project Description][1]
-2. [User Stories][2]
-3. [Design Diagrams][3]
-4. [Project Tasks + Timeline][4]
-5. [ABET Concerns][5]
-6. [Powerpoint Presentation][6]
-7. [Self-Assessments][7]
-8. [Professional Biographies][8]
-9. [Budget][9]
-10. [Appendix][10]
+2. [User Docs][11]
+3. [User Stories][2]
+4. [Design Diagrams][3]
+5. [Project Tasks + Timeline][4]
+6. [ABET Concerns][5]
+7. [Powerpoint Presentation][6]
+8. [Self-Assessments][7]
+9. [Professional Biographies][8]
+10. [Budget][9]
+11. [Appendix][10]
 
 [1]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Project-Description.md
 [2]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/User_Stories.md
@@ -29,3 +30,4 @@ This is a research project investigating how machine learning systems behave onc
 [8]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Professional_Biographies
 [9]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Expense_Report.md
 [10]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Appendix/
+[11]: https://github.com/prudhvirajn/ServeML/UserDocs.md
