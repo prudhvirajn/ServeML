@@ -20,15 +20,25 @@ This is a research project investigating how machine learning systems behave onc
 8. [Summary of Hours and Justification][9]
 
 [1]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Project-Description.md
-[2]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/User_Stories.md
-[3]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Design_Diagrams
-[4]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Milestones%2C%20Timeline%2C%20Effort%20Matrix
+[2]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/UI_Specifications.md
+[3]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Essays/Test_Plan_and_Results.pdf
+[4]: https://github.com/prudhvirajn/ServeML/blob/master/UserDocs.md
 [5]: https://docs.google.com/presentation/d/1p9VyNKzG8q-hKEUNTtu8iuidSMYgR7-X44fjId_4eGQ/edit?usp=sharing
 [6]: https://drive.google.com/file/d/1m5TOmc0FHDoSsKAn4NPI9fAdFD_rz5R1/view?usp=sharing
-[7]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Essays
-[8]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Professional_Biographies
-[9]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Expense_Report.md
-[10]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Appendix/
-[11]: https://github.com/prudhvirajn/ServeML/blob/master/UserDocs.md
+[7]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Essays/Initial_Assessment_Prudhviraj_Naidu.pdf
+[8]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Essays/Final_Assessment_Prudhviraj_Naidu.pdf
+[9]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Appendix/Summary_Hours_Prudhviraj_Naidu.md
 
 ## FAQ
+
+Q1: How to download the dataset?
+
+Ans: Download the entire ImageNet dataset and use the specific wnids provided in the text files in the data directory.
+
+Q2: How long does it take to train?
+
+Ans: It took 8 hours to train for 120 epochs on Kaggle GPU
+
+Q3: Can we use TPU?
+
+Ans: No, the keras training pipeline uses data augmentation operations which are currently not supported by TPU. 
