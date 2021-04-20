@@ -11,7 +11,7 @@
 
 #### Abstract
 
-In recent years, deep learning has started to dominate traditional Machine Learning problems. This project, we investigate if deep learning systems can truly adapt to unseen changes in serving data. We look at common neural networks used for image classification. These neural networks are trained on the standard training set. We apply numerous image augmentations to the test set to see how their accuracies change with respect to the augmentations. 
+Deep learning has started to dominate traditional Machine Learning problems. In this project, we investigate if deep learning systems can truly adapt to unseen changes in serving data. We look at common neural networks used for image classification. These neural networks are trained on a standard training set. We apply numerous image distortions to the test set to see how models’ accuracies change.
 
 #### Inadequacy of Current Solutions to Problem
 

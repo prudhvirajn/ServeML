@@ -9,23 +9,22 @@ This is a research project investigating how machine learning systems behave onc
 
 ## Table of Contents
 1. [Project Description][1]
-2. [User Docs][11]
-3. [User Stories][2]
-4. [Design Diagrams][3]
-5. [Project Tasks + Timeline][4]
-6. [ABET Concerns][5]
-7. [Powerpoint Presentation][6]
-8. [Self-Assessments][7]
-9. [Professional Biographies][8]
-10. [Budget][9]
-11. [Appendix][10]
+2. [User Interface Specification][2]
+3. [Test Plan and Results][3]
+4. [User Manual][4]
+5. [Spring Final PPT Presentation][5]
+6. [Final Expo Poster][6]
+7. Assessments
+    - [Initial Self-Assessments][7]
+    - [Final Self-Assessments][8]
+8. [Summary of Hours and Justification][9]
 
 [1]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Project-Description.md
 [2]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/User_Stories.md
 [3]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Design_Diagrams
 [4]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Milestones%2C%20Timeline%2C%20Effort%20Matrix
-[5]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Constraints.md
-[6]: https://drive.google.com/file/d/1C0GJ8Kb68xFEVPaejAIxC_lwfwo1XVf3/view?usp=sharing
+[5]: https://docs.google.com/presentation/d/1p9VyNKzG8q-hKEUNTtu8iuidSMYgR7-X44fjId_4eGQ/edit?usp=sharing
+[6]: https://drive.google.com/file/d/1m5TOmc0FHDoSsKAn4NPI9fAdFD_rz5R1/view?usp=sharing
 [7]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Essays
 [8]: https://github.com/prudhvirajn/ServeML/tree/master/Project_Reports/Professional_Biographies
 [9]: https://github.com/prudhvirajn/ServeML/blob/master/Project_Reports/Expense_Report.md
